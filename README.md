@@ -1,2 +1,2 @@
-test R
-gitepo
+test Repo
+gitrepo
